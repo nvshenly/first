@@ -9,4 +9,9 @@ public class Demo {
 		
 		System.out.println(1111);
 	}
+	
+	@Test
+	public void run1(){
+		System.out.println(22222);
+	}
 }
