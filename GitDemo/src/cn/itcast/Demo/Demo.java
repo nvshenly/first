@@ -14,4 +14,8 @@ public class Demo {
 		
 		System.out.println(3333);
 	}
+	@Test
+	public void run1(){
+		System.out.println(22222);
+	}
 }
